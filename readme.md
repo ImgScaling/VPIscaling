@@ -2,22 +2,6 @@ Image Scaling by de la Vallée-Poussin Filtered Interpolation
 
 SOFTWARE
 
-The source code of  VPI (de la Vallée-Poussin Interpolation) method, proposed in the paper "Image Scaling by de la Vallée-Poussin Filtered Interpolation", arXiv:2109.13897 (2021), by D. Occorsio, G. Ramella, W. Themistoclakis, is intended by the authors as  support for possible  comparisons. 
-
-The method can be run by the script DemoCall_VPI_supervised.m and DemoCall_VPI_unsupervised.m respectively in supervised nd unsupervised mode. Note that this is an educational code, not optimized.
-
-This material shall not be modified without having permission from the authors. 
-
-The authors don't make representations about the suitability of this material for any purpose. It is provided "as is" without express or implied warranty.
-
-DATASETS
-
-The validation of the VPI method has been carried out on several kinds of 8-bit color images collected in ten publicly available datasets, having different characteristics on the size and the quality of the images, the variety of the subjects, etc. The employed datasets are synthesized in the following table comprising 1943 images in total.
-
-mage Scaling by de la Vallée-Poussin Filtered Interpolation
-
-SOFTWARE
-
 The source code of VPI (de la Vallée-Poussin Interpolation) method, proposed in the paper "Image Scaling by de la Vallée-Poussin Filtered Interpolation", arXiv:2109.13897 (2021), by D. Occorsio, G. Ramella, W. Themistoclakis, is intended by the authors as support for possible comparisons.
 
 The method can be run by the script DemoCall_VPI_supervised.m and DemoCall_VPI_unsupervised.m respectively in supervised nd unsupervised mode. Note that this is an educational code, not optimized.
